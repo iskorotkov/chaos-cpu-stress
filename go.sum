@@ -1,0 +1,5 @@
+github.com/iskorotkov/chaos-io-stress v0.1.0 h1:Y2uIt0S/h/Ypxk671AJnKtEGWFlGFKdFOysoCozN084=
+github.com/iskorotkov/chaos-io-stress v0.1.1 h1:9LQLlJiCogp+bAqweSqYAACiK1nXmFQUhok9rpC4AxQ=
+github.com/iskorotkov/chaos-io-stress v0.1.1/go.mod h1:G0fjo/q1dZTYvqtLj1oWJL5X1+wvbsXqF9OHWmD9roA=
+github.com/iskorotkov/chaos-server v0.1.0 h1:JUofTD0GvKUdLxxvlWgNj0gzpG/fiN0rFu5QHQfJqqQ=
+github.com/iskorotkov/chaos-server v0.1.0/go.mod h1:4QwAZt6tXK2tDki1De3EHWHzz3R1ToAwwxjG2ys5IyI=
