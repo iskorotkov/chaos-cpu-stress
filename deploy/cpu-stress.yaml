@@ -1,13 +1,7 @@
-apiVersion: v1
-kind: Namespace
-metadata:
-  name: chaos-app
----
 apiVersion: apps/v1
 kind: Deployment
 metadata:
   name: cpu-stress
-  namespace: chaos-app
   labels:
     app: cpu-stress
   annotations:
@@ -34,5 +28,5 @@ spec:
               value: "32"
           resources:
             limits:
-              memory: "128Mi"
-              cpu: "200m"
+              memory: "64Mi"
+              cpu: "50m"
